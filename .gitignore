@@ -1,0 +1,9 @@
+bin/
+bin-int/
+__pycache__/
+
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
